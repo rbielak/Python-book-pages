@@ -1,0 +1,469 @@
+title: For the Fun of It
+author: Erhart, Amelia
+subject: Golden Age 
+url:
+title: Last Flight, The
+author: Erhart, Amelia
+subject: Golden Age
+url:
+# Comments
+title: West with the Night
+author: Markham, Beryl
+subject: Golden Age
+url:
+#
+title: Fate is the Hunter
+author: Gann, Ernest
+subject: Biography
+url:
+#
+title: Aviator, The
+author: Gann, Ernest
+subject: Fiction
+url:
+#
+title: Band of Brothers
+author: Gann, Ernest
+subject: Fiction
+url:
+#
+title: Black Watch, The
+author: Gann, Ernest
+subject: Military
+url: gann.html#blackwatch
+title: High and the Mighty, The
+author: Gann, Ernest
+subject: Fiction
+url:
+title: Islands in the Sky
+author: Gann, Ernest
+subject: Fiction
+url:
+#
+title: On Extended Wings
+author: Ackerman, Diane
+subject: General Aviation
+url:
+#
+title: Biplane
+author: Bach, Richard
+subject: General Aviation
+url:
+#
+title: Stranger to the Ground
+author: Bach, Richard
+subject: Military
+url:
+#
+title: Nothing by Chance
+author: Bach, Richard
+subject: General Aviation
+url:
+title: Gift of Wings, A
+author: Bach, Richard
+subject: General Aviation
+url:
+#
+title: Airframe
+author: Crichton, Michael
+subject: Fiction
+url: misc.htm#airframe
+#
+title: How to Fly
+author: Baxter, Gordon
+subject: General Aviation
+url:
+title: More Bax Seat: New Logs of a Pasture Pilot
+author: Baxter, Gordon
+subject: General Aviation
+url:
+title: Bax Seat: Log of a Pasture Pilot
+author: Baxter, Gordon
+subject: General Aviation
+url:
+title: Al Mooney Story, The
+author: Baxter, Gordon
+subject: Biography
+url:
+#
+title: Saint-Exupery: a Biography
+author: Schiff, Stacy
+subject: Biography
+url:
+#
+title: Lonely Sky, The
+author: Bridegman, William
+author: Hazard, Jacqueline
+subject: Flight Testing
+url:
+
+# Buck
+title:  Art of Flying, The
+author: Buck, Robert N.
+subject: General Aviation
+url:
+title: Pilot's Burden, The
+author: Buck, Robert N.
+subject: General Aviation
+url:
+title: Weather Flying
+author: Buck, Robert N.
+subject: General Aviation
+url:
+
+title: Carrying the Fire
+author: Collins, Michael
+subject: Space Exploration
+url:
+
+# Coonts
+title: Cannibal Queen
+author: Coonts, Stephen
+subject: General Aviation
+url:
+title: Flight of the Intruder
+author: Coonts, Stephen
+subject: Fiction
+url: coonts.htm#intruder
+
+title: I Could Never be so Lucky Again'
+author: Doolittle, James 
+author: Glines, Carroll
+subject: Biography
+url:
+
+title: Fly for Your Life
+author: Forrester, Larry
+subject: World War II 
+url:
+
+title: Zero Three Bravo
+author: Gosnell, Mariana
+subject: General Aviation
+url: 3zb.htm
+
+title: Spirit of St. Louis, The
+author: Lindbergh, Charles
+subject: Golden Age
+url:
+
+title: North to the Orient
+author: Lindberg, Ann Morrow
+subject: Golden Age
+url:
+
+title: Apollo 13
+author: Lovell, Jim 
+author: Kluger, Jeffrey
+subject: Space Exploration
+url:
+
+title: Of Fire on the Moon
+author: Mailer, Norman
+subject: Space Exploration
+url:
+
+title: Those Who Fall
+author: Muirhead, John
+subject: World War II
+url:
+
+title: Night Flight
+author: Saint-Exupery, Antoine de
+subject: Fiction
+url: saintx.html#nightflight
+
+title: Wind, Sand and Stars
+author: Saint-Exupery, Antoine de
+subject: Golden Age
+url:
+
+title: Southern Mail
+author: Saint-Exupery, Antoine de
+subject: Fiction
+url:
+
+title: Flight to Arras
+author: Saint-Exupery, Antoine de
+subject: World War II
+url:
+
+title: Collision Course
+author: Nader, Ralph
+author: Smith, Wesley J.
+subject: Airlines
+url: misc.htm#nader
+
+title: No Highway
+author: Shute, Nevil
+subject: Fiction
+url:
+title: Legacy of Wings
+author: Smith, Frank Kingston
+subject: Biography
+url:
+title: Weekend Pilot
+author: Smith, Frank Kingston
+subject: General Aviation
+url:
+title: Weekend Wings
+author: Smith, Frank Kingston
+subject: General Aviation
+url:
+#
+title: Right Stuff, The
+author: Wolfe, Tom
+subject: Space Exploration
+url:
+#
+title: Ride on the Wind
+author: Chichester, Francis
+subject: Golden Age
+url:
+#
+title: Last Enemy, The
+author: Hillary, Richard
+subject: World War II
+url:
+#
+title: Season in the Air, A
+author: Simmons, Thomas
+subject: General Aviation
+url:
+#
+title: Last Airmen, The
+author: Rawlings, Roger
+subject: Airlines
+url:
+#
+title: Zemke's Wolf Pack
+author: Freeman, Roger
+subject: World War II
+url:
+#
+title: High Honor
+author: Leuthner, Stuart
+author: Jensen, Oliver
+subject: World War II
+url:
+#
+title: Flight of Passage
+author: Buck, Rinker
+subject: General Aviation
+URL:
+#
+title: Takeoff
+author: Del Giudice, Daniele
+subject: General Aviation
+url:
+#
+title: Enemy Coast Ahead
+author: Gibson, Guy
+subject: World War II
+url:
+#
+title: Samurai!
+author: Sakai, Saburo
+subject: World War II
+url:
+#
+title: War in the Air
+author: Coonts, Stephen
+subject: Military
+url: coonts.htm#war_in_air
+#
+title: Piper Cub Era
+author: Butler, Mr. Beverly
+subject: General Aviation
+url:
+#
+title: God is My Copilot
+author: Scott, Robert L.
+subject: World War II
+url:
+#
+title: Baa Baa Black Sheep
+author: Boyington, Gregory "Pappy"
+subject: World War II
+url:
+#
+title: First and the Last, The
+author: Galland, Adolf
+subject: World War II
+url:
+#
+title: Flying Airplanes: the First Hundred Hours
+author: Garrison, Peter
+subject: General Aviation
+url:
+#
+title: Kitplane Construction
+author: Wanttaja, Ron
+subject: Homebuilding
+url:
+#
+title: Piper Cubs
+author: Bowers, Peter M.
+subject: General Aviation
+url:
+#
+title: Flight of the Gin Fizz
+author: Kisor, Henry
+subject: General Aviation
+url:
+#
+title: Flights of Passage
+author: Hynes, Samuel
+subject: World War II
+url:
+#
+title: Airmail: How it all began
+author: Glines, Carroll V.
+subject: Aviation History
+url:
+#
+title: Wager with the Wind: the Don Sheldon Story
+author: Greiner, James
+subject: Biography
+url:
+#
+title: Life in the Clouds, A
+author: Anderson, John A.
+subject: Biography
+url: clouds.html
+#
+title: Joy of Soaring, The
+author: Conway, Carle
+subject: General Aviation
+url:
+#
+title: Duel of Eagles
+author: Townsend, Peter
+subject: World War II
+url:
+#
+title: Canvas Falcons, The
+author: Longstreet, Stephen
+subject: World War I
+url:
+#
+title: Zero
+author: Caidin, Martin
+author: Okumiya, Masatake
+author: Horikoshi, Jiro
+subject: World War II
+url:
+#
+title: Into the Teeth of the Tiger
+author: Lopez, Donald S.
+subject: World War II
+url:
+#
+title: Fork-Tailed Devil: The P-38
+author: Caidin, Martin
+subject: World War II
+url:
+#
+title: Taming the Taildragger
+author: Ball, John
+subject: General Aviation
+url:
+#
+title: Cloud Dancing
+author: Whelan, Robert F.
+subject: General Aviation
+url: cloud_dancing.html
+#
+title: Stick and Rudder
+author: Langewiesche, Wolfgang
+subject: General Aviation
+url:
+#
+title: Inside the Sky
+author: Langewiesche, William
+subject: General Aviation
+url:
+#
+title: Reach for the Sky
+author: Brickhill, Paul
+subject: World War II
+url:
+#
+title: Blond Night of Germany, The
+author: Toliver, Raymond F.
+author: Constable, Trevor J.
+subject: World War II
+url:
+#
+title: Narrow Margin, The - (the dramatic story of the Battle of Britain)
+author: Dempster, Derek
+author: Wood, Derek
+subject: World War II
+#
+title: Thirty Seconds over Tokyo
+author: Lawson, Capt. Ted
+subject: World War II
+url:
+#
+title: Slide Rule
+author: Shute, Nevil
+subject: Biography
+url:
+#
+title: Verdict on Erebus
+author: Mahon, Peter
+subject: Airlines
+url:
+#
+title: My God! It's a Woman
+author: Bird, Nancy
+subject: Biography
+url:
+#
+title: Battling the Bombers
+author: Johnen, Wilhelm
+subject: World War II
+url:
+#
+title: Stuka Pilot
+author: Rudel, Hans Ulrich
+subject: World War II
+url:
+#
+title: One Zero Charlie
+author: Gonzales, Laurence
+subject: General Aviation
+url:
+#
+title: Aces Wild - the Race for Mach 1
+author: Blackburn, Al
+subject:  Flight Testing
+url: aces.html
+#
+title: Mr. Piper and his Cubs
+author: Francis, Devon
+subject: General Aviation
+url:
+#
+title: 12 O'Clock High
+author: Bartlett, Sy
+author: Lay, Beime
+subject: World War II
+url:
+#
+title: Skunk Works
+author: Rich, Ben R.
+author: Janos, Leo
+subject: Flight Testing
+url:
+#
+title: Cobras over the Tundra
+author: Long, Everett
+author: Negenblya, Ivan
+subject: World War II
+url:
+#
+title: Lindbergh
+author: Berg, A. Scott
+subject: Biography
+url:
