@@ -34,7 +34,7 @@ titles_page.generate ("lightblue")
 #
 book_list.sort_by_subject ()
 subject_page = Subjects_Page ()
-subject_page.set_book_list (book_list.contents)
+subject_page.set_book_list(book_list.contents)
 subject_page.generate ("lightblue")
 
 

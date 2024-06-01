@@ -24,7 +24,7 @@ class Html_Page:
         #
         # Empty function - to be redefined in a descendant
         #
-        print ""
+        print("")
 
     def generate_trailer (self):
         #
@@ -42,7 +42,8 @@ class Html_Page:
 # Code to test this class
 #
 
+
 if __name__ == "__main__":
-    p = html_page ("This is the title", "<i>This is the top heading</i>")
+    p = Html_Page ("This is the title", "<i>This is the top heading</i>")
     p.generate ("lightblue")
 
